@@ -1,6 +1,6 @@
 ### Hi, I'm Ivan!
 
-I'm an iOS Software Engineer
+I'm an iOS Software Engineer. Currently working on a new fitness app.
 
 A few useful links:
 
