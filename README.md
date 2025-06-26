@@ -1,6 +1,6 @@
 ### Hi, I'm Ivan!
 
-I'm an iOS Software Engineer. Currently working on a new fitness app.
+I'm an iOS Software Engineer. Full time at NatWest group. In a free time working on a new fitness app.
 
 A few useful links:
 
