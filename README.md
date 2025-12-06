@@ -12,6 +12,6 @@ A few useful links:
 
 • [I'm on LinkedIn](https://www.linkedin.com/in/%F0%9F%8D%8Fivan-pryhara-1b7855238/)
 
-• [My app in AppStore](https://apps.apple.com/us/app/climbinghub/id1615595031)
+• [My app in AppStore](https://apps.apple.com/pl/app/my-activitie-your-fitogotchi/id6747636773)
 
 Contact: ivan.pryhara@icloud.com
