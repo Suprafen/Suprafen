@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
-I'm an iOS Software Engineer. Full time at NatWest group. In a free time working on a new fitness app.
+I'm an iOS Software Engineer. In a free time working on a new fitness app.
 
 A few useful links:
 
